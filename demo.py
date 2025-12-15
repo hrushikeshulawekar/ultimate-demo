@@ -13,4 +13,4 @@ def test(a,b):
   mul(a,b)
   div(a,b)
 
-test(4,6)
+test(10,6)
