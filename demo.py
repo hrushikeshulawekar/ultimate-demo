@@ -12,5 +12,7 @@ def test(a,b):
   min(a,b)
   mul(a,b)
   div(a,b)
+  print("Task has been completed")
+  print("version 2.0")
 
 test(10,9)
