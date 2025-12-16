@@ -17,4 +17,4 @@ def login(username,password):
     wrong_user()
 
 login("user","root@1234")
-print("version 1.1.0)
+print("version 1.1.0")
