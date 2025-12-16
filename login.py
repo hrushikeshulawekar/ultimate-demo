@@ -16,4 +16,4 @@ def login(username,password):
   else:
     wrong_user()
 
-login("admin","root@12345")
+login("admin","root@1234")
