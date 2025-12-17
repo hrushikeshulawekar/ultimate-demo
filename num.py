@@ -10,6 +10,6 @@ def test(a):
   else:
     odd()
 
-test(2)
-print("version 1.0")
+test(5)
+print("version 2.0")
   
