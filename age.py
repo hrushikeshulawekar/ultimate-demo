@@ -12,4 +12,4 @@ def check(age):
   else:
     not_valid()
 
-check(25)
+check(16)
